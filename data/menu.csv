@@ -1,0 +1,13 @@
+Name,Price,Category
+Espresso,3.0,Coffee
+Cappuccino,4.0,Coffee
+Latte,4.5,Coffee
+Americano,3.5,Coffee
+Mocha,5.0,Coffee
+Croissant,3.5,Food
+Bagel,3.0,Food
+Cookie,2.0,Food
+Hot Chocolate,3.5,Beverage
+Tea,2.5,Beverage
+Iced Coffee,4.0,Beverage
+chai,0.25,beverage

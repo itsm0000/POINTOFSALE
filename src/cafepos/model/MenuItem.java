@@ -1,3 +1,5 @@
+package cafepos.model;
+
 /**
  * MenuItem Class
  * 
